@@ -1,4 +1,4 @@
 .envrc
 .DS_Store
-**.ipynb_chekpoints
+**.ipynb_checkpoints
 **.virtual_documents
