@@ -1,0 +1,176 @@
+{
+    "fields": [
+        {
+            "name": "id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "customer_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "location_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "company_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "created_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "updated_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "name",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "day_week",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "session",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "total",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "processed",
+            "type": "BOOL",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "returned",
+            "type": "BOOL",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "barcode",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "customer_code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "location_code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "staff_code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom1",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "pending_code_sync",
+            "type": "BOOL",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "points",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "returned_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "synchronised_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "profile_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom2",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom3",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom4",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom5",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom6",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom7",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom8",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "total_tax",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "associate_id",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        }
+        ,
+        {
+            "name": "ingest_datetime",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        }
+        ,
+        {
+            "name": "uuid",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        }
+    ]
+}

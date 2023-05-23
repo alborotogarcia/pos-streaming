@@ -1,0 +1,144 @@
+{
+    "fields": [
+        {
+            "name": "id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "product_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "quantity",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "price",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom2",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom3",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom4",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom5",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom6",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom7",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom8",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "custom9",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "created_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "updated_at",
+            "type": "TIMESTAMP",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "size",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "color",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "discount",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "discount_type",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "product_code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "total",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "company_id",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "activity_code",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "weight",
+            "type": "INTEGER",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "description",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "pending_code_sync",
+            "type": "BOOL",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "total_cost",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "total_tax",
+            "type": "FLOAT",
+            "mode": "NULLABLE"
+        },
+        {
+            "name": "product_ean",
+            "type": "STRING",
+            "mode": "NULLABLE"
+        }
+    ]
+}
